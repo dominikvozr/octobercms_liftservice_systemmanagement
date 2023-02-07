@@ -1,0 +1,18 @@
+{
+    "name": "root/systemmanagement",
+    "require": {
+        "q": "q",
+        "#": "no"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\Systemmanagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominik Vozar",
+            "email": "dominikvozr@gmail.com"
+        }
+    ]
+}
