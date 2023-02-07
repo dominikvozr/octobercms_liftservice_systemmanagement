@@ -1,0 +1,28 @@
+columns:
+    id:
+        label: id
+        type: number
+    street:
+        label: Ulica
+        type: text
+    house_num:
+        label: Číslo domu
+        type: text
+    city:
+        label: Mesto
+        type: text
+    psc:
+        label: PSČ
+        type: text
+    note:
+        label: poznámka
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime
+    deleted_at:
+        label: deleted_at
+        type: datetime

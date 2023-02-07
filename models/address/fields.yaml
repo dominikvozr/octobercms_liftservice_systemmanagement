@@ -1,0 +1,21 @@
+fields:
+    street:
+        label: Ulica
+        span: auto
+        type: text
+    house_num:
+        label: Číslo domu
+        span: auto
+        type: text
+    city:
+        label: Mesto
+        span: auto
+        type: text
+    psc:
+        label: PSČ
+        span: auto
+        type: text
+    note:
+        label: poznámka
+        span: auto
+        type: text

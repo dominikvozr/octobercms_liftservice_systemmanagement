@@ -1,0 +1,18 @@
+plugin:
+    name: 'dondo.systemmanagement::lang.plugin.name'
+    description: 'dondo.systemmanagement::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-gear
+    homepage: ''
+permissions:
+    can-read:
+        tab: can-read
+        label: can-read
+    can-edit/write:
+        tab: can-edit/write
+        label: can-edit/write
+navigation:
+    products:
+        label: 'dondo.systemmanagement::lang.products'
+        url: dondo/systemmanagement/products
+        icon: icon-dropbox

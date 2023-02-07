@@ -1,0 +1,59 @@
+fields:
+    title:
+        label: Názov
+        span: auto
+        type: text
+    type:
+        label: Typ
+        span: auto
+        type: text
+    manufacturer:
+        label: Značka
+        span: auto
+        type: text
+    year_of_production:
+        label: Rok výroby
+        span: auto
+        type: text
+    location:
+        label: Umiestnenie
+        span: auto
+        type: text
+    operator:
+        label: Prevádzkovateľ
+        span: auto
+        type: text
+    carrying_capacity:
+        label: Nosnosť v kg
+        span: auto
+        type: text
+    speed:
+        label: Menovitá rýchlosť
+        span: auto
+        type: text
+    ec_operator:
+        label: EČ operátora
+        span: auto
+        type: text
+    review_data:
+        label: Dátum prehliadky
+        span: auto
+        type: datepicker
+        mode: date
+    # Proxy Fields
+    address[street]:
+        span: auto
+        label: Ulica
+    address[house_num]:
+        span: auto
+        label: Číslo domu
+    address[city]:
+        span: auto
+        label: Mesto
+    address[psc]:
+        span: auto
+        label: PSČ
+    address[note]:
+        span: auto
+        label: Poznámka
+    #'address_id',

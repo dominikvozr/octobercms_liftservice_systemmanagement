@@ -1,0 +1,46 @@
+columns:
+    id:
+        label: id
+        type: number
+    address_id:
+        label: Address id
+        type: number
+    title:
+        label: Názov
+        type: text
+    type:
+        label: Typ
+        type: text
+    manufacturer:
+        label: Značka
+        type: text
+    year_of_production:
+        label: Rok výroby
+        type: text
+    location:
+        label: Umiestnenie
+        type: text
+    operator:
+        label: Prevádzkovateľ
+        type: text
+    carrying_capacity:
+        label: Nosnosť v kg
+        type: text
+    speed:
+        label: Menovitá rýchlosť
+        type: text
+    ec_operator:
+        label: EČ operátora
+        type: text
+    review_data:
+        label: review_data
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime
+    deleted_at:
+        label: deleted_at
+        type: datetime

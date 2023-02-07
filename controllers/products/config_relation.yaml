@@ -1,0 +1,18 @@
+qrcode:
+    label: Qrcode
+    view:
+        form: $/dondo/qrcodes/models/qrcode/fields.yaml
+        toolbarButtons: update|delete
+    manage:
+        form: $/dondo/qrcodes/models/qrcode/fields.yaml
+        list: $/dondo/qrcodes/models/qrcode/columns.yaml
+address:
+    label: Adresa
+    view:
+        list: $/dondo/systemmanagement/models/address/columns.yaml
+        form: $/dondo/systemmanagement/models/address/fields.yaml
+        toolbarButtons: update|delete
+    manage:
+        form: $/dondo/systemmanagement/models/address/fields.yaml
+        list: $/dondo/systemmanagement/models/address/columns.yaml
+        context: create|update

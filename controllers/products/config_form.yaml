@@ -1,0 +1,10 @@
+name: Products
+form: $/dondo/systemmanagement/models/product/fields.yaml
+modelClass: Dondo\SystemManagement\Models\Product
+defaultRedirect: dondo/systemmanagement/products
+create:
+    redirect: 'dondo/systemmanagement/products/update/:id'
+    redirectClose: dondo/systemmanagement/products
+update:
+    redirect: dondo/systemmanagement/products
+    redirectClose: dondo/systemmanagement/products

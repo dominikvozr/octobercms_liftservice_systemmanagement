@@ -1,0 +1,23 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Create dondo_systemmanagement_products'
+    - builder_table_create_dondo_systemmanagement_products.php
+1.0.4:
+    - 'Updated table dondo_systemmanagement_products'
+    - builder_table_update_dondo_systemmanagement_products.php
+1.0.5:
+    - 'Updated table dondo_systemmanagement_products'
+    - builder_table_update_dondo_systemmanagement_products_2.php
+1.0.6:
+    - 'Created table dondo_systemmanagement_address'
+    - builder_table_create_dondo_systemmanagement_address.php
+1.0.7:
+    - 'Updated table dondo_systemmanagement_products'
+    - builder_table_update_dondo_systemmanagement_products_3.php
+1.0.8:
+    - 'Updated table dondo_systemmanagement_address'
+    - builder_table_update_dondo_systemmanagement_address.php
+1.0.9:
+    - 'Updated table dondo_systemmanagement_address'
+    - builder_table_update_dondo_systemmanagement_address_2.php
