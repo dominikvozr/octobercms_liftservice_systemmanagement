@@ -1,16 +1,10 @@
 {
-    "name": "root/systemmanagement",
+    "name": "dondo/systemmanagement-plugin",
 	"type": "october-plugin",
 	"description": "Enter a meaningful description here",
     "require": {
         "ramsey/uuid": "^4.6"
     },
-    "authors": [
-        {
-            "name": "Dominik Vozar",
-            "email": "dominikvozr@gmail.com"
-        }
-    ],
     "config": {
         "allow-plugins": {
             "composer/installers": true
