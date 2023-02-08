@@ -5,4 +5,8 @@
   * Fixed add new release
 
 ### [0.0.1] 2023-02-07
+<<<<<<< HEAD
   * Add No composer.json
+=======
+  * Add No composer.json
+>>>>>>> de14cd477069960bdea68060a78fe46ca4a17f39
