@@ -1,5 +1,6 @@
 {
     "name": "root/systemmanagement",
+	"type": "october-plugin",
     "require": {
         "ramsey/uuid": "^4.6"
     },
@@ -13,5 +14,10 @@
             "name": "Dominik Vozar",
             "email": "dominikvozr@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
 }
