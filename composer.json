@@ -1,13 +1,9 @@
 {
     "name": "root/systemmanagement",
 	"type": "october-plugin",
+	"description": "Enter a meaningful description here",
     "require": {
         "ramsey/uuid": "^4.6"
-    },
-    "autoload": {
-        "psr-4": {
-            "Root\\Systemmanagement\\": "src/"
-        }
     },
     "authors": [
         {
